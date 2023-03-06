@@ -1,0 +1,7 @@
+.quienes__titulo {
+  font-family: var(--font-family-titulos);
+  color: var(--color-titulos);
+  font-size: var(--font-size-titulos);
+  margin-bottom: 1rem;
+
+}

@@ -1,0 +1,16 @@
+.receta__boton {
+  background-color: #DA2B1F;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.125rem;
+  width: 115px;
+  height: 37px;
+  transition: all .1s ease-in-out;
+}
+
+.receta__boton:hover {
+  cursor: pointer;
+  background-color: #9f1010;
+}

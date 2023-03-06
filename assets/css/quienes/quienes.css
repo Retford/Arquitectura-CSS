@@ -1,0 +1,16 @@
+.quienes {
+  padding: 4rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+  .quienes {
+    padding: initial;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .quienes {
+    padding-bottom: initial
+  }
+}

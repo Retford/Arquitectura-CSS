@@ -1,0 +1,6 @@
+.persona__nombre {
+  font-family: var(--font-family-titulos);
+  color: var(--color-titulos);
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}

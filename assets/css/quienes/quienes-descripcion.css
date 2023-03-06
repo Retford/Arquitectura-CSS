@@ -1,0 +1,5 @@
+.quienes__descripcion {
+  color: var(--color-descripcion);
+  font-size: var(--font-size-descripcion);
+  font-weight: 300;
+}

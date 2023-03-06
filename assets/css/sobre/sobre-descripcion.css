@@ -1,0 +1,11 @@
+.sobre__descripcion {
+  color: var(--color-descripcion);
+  font-size: var(--font-size-descripcion);
+  font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  .sobre__descripcion {
+    font-size: 1.3rem;
+  }
+}

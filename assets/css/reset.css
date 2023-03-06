@@ -1,3 +1,11 @@
+:root {
+    --color-titulos: #DA2B1F;
+    --font-family-titulos: Pacifico, cursive;
+    --color-descripcion: #8C8888;
+    --font-size-titulos: 3.1875rem;
+    --font-size-descripcion: 1.75rem;
+}
+
 body {
     font-family: Roboto, sans-serif;
 }

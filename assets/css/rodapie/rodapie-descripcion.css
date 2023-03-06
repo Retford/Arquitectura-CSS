@@ -1,0 +1,12 @@
+.rodapie__descripcion {
+  display: flex;
+  font-size: 2rem;
+  margin-left: 5rem;
+  color: var(--color-descripcion);
+}
+
+@media screen and (max-width: 768px) {
+  .rodapie__descripcion {
+    margin: initial;
+  }
+}
